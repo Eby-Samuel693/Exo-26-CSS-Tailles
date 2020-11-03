@@ -28,3 +28,10 @@ p{
 .l2{
     font-weight: bold;
 }
+a{
+    text-decoration-line: none;
+}
+img{
+    margin-left:1300px;
+    margin-top: -1000px;
+}
