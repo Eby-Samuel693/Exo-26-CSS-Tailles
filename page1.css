@@ -1,19 +1,21 @@
-body{
-    color:coral;
+body {
+    color: coral;
 }
 
 p{
     text-shadow: 8px 6px darkgray;
 }
+
 .div1 {
     border-style: solid;
     border-width: 3px;
     width: 750px;
     border-radius: 15px;
 }
-         .shadow{
-            padding: 20px;
-            text-indent: 0;
+
+.shadow {
+    padding: 20px;
+    text-indent: 0;
 }
 .div2 {
     border-style: solid;
@@ -25,13 +27,15 @@ p{
 .l1{
     font-style: italic;
 }
-.l2{
+.l2 {
     font-weight: bold;
 }
-a{
+
+a {
     text-decoration-line: none;
 }
-img{
-    margin-left:1300px;
+
+img {
+    margin-left: 1300px;
     margin-top: -1000px;
 }
